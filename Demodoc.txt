@@ -1,3 +1,5 @@
+#newdoc
+
 newdoc
 
 1
